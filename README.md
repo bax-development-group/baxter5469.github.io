@@ -13,3 +13,8 @@ This is my site to show my personal and school programming projects. I also have
 * [Poll Game](https://baxter5469.github.io/poll-game)
 * [Menu Calculator](https://baxter5469.github.io/Menu-calculator)
 * [Turtle Game](https://baxter5469.github.io/bax-turtle-game)
+
+# Follow me on Social Media!
+* [Twitter](https://twitter.com/baxter5469)
+* [Instagram](https://www.instagram.com/andrewgame5/)
+* [Youtube](https://www.youtube.com/channel/UCW68xonaj87eCBkJ-yGL60g)
