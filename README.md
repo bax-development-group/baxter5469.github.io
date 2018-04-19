@@ -9,7 +9,7 @@ This is my site to show my personal and school programming projects. I also have
 * [Discord Status Manager](https://baxter5469.github.io/discord-status-manager)
 
 
-# Completed Projects
+# School Projects
 * [Poll Game](https://baxter5469.github.io/poll-game)
 * [Menu Calculator](https://baxter5469.github.io/Menu-calculator)
 * [Turtle Game](https://baxter5469.github.io/bax-turtle-game)
